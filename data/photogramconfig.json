@@ -1,0 +1,7 @@
+{
+    "db_server": "172.17.0.3",
+    "db_username": "root",
+    "db_password": "photogram@06",
+    "db_name": "photogram" ,
+    "base_path": "/"
+    } 
